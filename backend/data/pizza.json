@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "name" : "Amore",
+        "price" : 2499,
+        "ingridients" : "sajtkrémes alap, csirkemell, camembert sajt, trappista sajt, füstölt sajt, mozzarella sajt"  
+    },
+    {
+        "id" : 2,
+        "name" : "BBQ",
+        "price" : 2899,
+        "ingridients" : "BBQ alap, csirkehús, kukorica, lila hagyma, mozzarella sajt"
+    },
+    {
+        "id" : 3,
+        "name" : "kőbánya classic",
+        "price" : 189,
+        "rating" : 9
+    },
+    {
+        "id" : 4,
+        "name" : "arany fácán",
+        "price" : 199,
+        "rating" : 2
+    },
+    {
+        "id" : 5,
+        "name" : "rákoczi",
+        "price" : 180,
+        "rating" : 1
+    },
+    {
+        "id" : 6,
+        "name" : "rákoczi",
+        "price" : 180,
+        "rating" : 1
+    },
+    {
+        "id" : 7,
+        "name" : "rákoczi",
+        "price" : 180,
+        "rating" : 1
+    }
+]
